@@ -6,6 +6,7 @@ function useDB() {
   const [ careers ] = useState(DB.careers)
   const [ config ] = useState(DB.config)
   const [ skills ] = useState(DB.skills)
+  const [ personals ] = useState(DB.personals)
   const [ hobby ] = useState(DB.hobby)
   const [ speaker ] = useState(DB.speaker)
   const [ activities ] = useState(DB.activities)
@@ -16,6 +17,7 @@ function useDB() {
     careers,
     config,
     skills,
+    personals,
     hobby,
     speaker,
     activities,

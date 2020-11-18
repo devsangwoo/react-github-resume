@@ -6,7 +6,7 @@ import Introduce from '../../components/Introduce'
 import Hobby from '../../components/Hobby'
 import Careers from '../../components/Careers'
 import Skills from '../../components/Skills'
-import Speakers from '../../components/Speakers'
+import Personals from '../../components/Personals'
 import Activities from '../../components/Activities'
 import Lectures from '../../components/Lectures'
 import Awards from '../../components/Awards'
@@ -17,6 +17,8 @@ const Home = () => {
       <Introduce className={styles.item} />
       <Careers className={styles.item} />
       <Skills className={styles.item} />
+      <Personals className={styles.item} />
+      {/* <Personals className={styles.item} /> */}
       {/* <Hobby className={styles.item} />
       <Speakers className={styles.item} />
       <Activities className={styles.item} />
