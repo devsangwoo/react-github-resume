@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-github-resume/static/css/main.3c6242d5.chunk.css",
-    "main.js": "/react-github-resume/static/js/main.dec3e1ee.chunk.js",
-    "main.js.map": "/react-github-resume/static/js/main.dec3e1ee.chunk.js.map",
+    "main.css": "/react-github-resume/static/css/main.edf679b4.chunk.css",
+    "main.js": "/react-github-resume/static/js/main.0569afdd.chunk.js",
+    "main.js.map": "/react-github-resume/static/js/main.0569afdd.chunk.js.map",
     "runtime-main.js": "/react-github-resume/static/js/runtime-main.e7a13ca1.js",
     "runtime-main.js.map": "/react-github-resume/static/js/runtime-main.e7a13ca1.js.map",
-    "static/js/2.c0f8a62d.chunk.js": "/react-github-resume/static/js/2.c0f8a62d.chunk.js",
-    "static/js/2.c0f8a62d.chunk.js.map": "/react-github-resume/static/js/2.c0f8a62d.chunk.js.map",
+    "static/js/2.c0efe22b.chunk.js": "/react-github-resume/static/js/2.c0efe22b.chunk.js",
+    "static/js/2.c0efe22b.chunk.js.map": "/react-github-resume/static/js/2.c0efe22b.chunk.js.map",
     "index.html": "/react-github-resume/index.html",
-    "precache-manifest.ec73d40abda5c16116a71b6c4111d931.js": "/react-github-resume/precache-manifest.ec73d40abda5c16116a71b6c4111d931.js",
+    "precache-manifest.b489db4950fd1c7e424e6f6eb4c31cb6.js": "/react-github-resume/precache-manifest.b489db4950fd1c7e424e6f6eb4c31cb6.js",
     "service-worker.js": "/react-github-resume/service-worker.js",
-    "static/css/main.3c6242d5.chunk.css.map": "/react-github-resume/static/css/main.3c6242d5.chunk.css.map",
-    "static/js/2.c0f8a62d.chunk.js.LICENSE.txt": "/react-github-resume/static/js/2.c0f8a62d.chunk.js.LICENSE.txt",
+    "static/css/main.edf679b4.chunk.css.map": "/react-github-resume/static/css/main.edf679b4.chunk.css.map",
+    "static/js/2.c0efe22b.chunk.js.LICENSE.txt": "/react-github-resume/static/js/2.c0efe22b.chunk.js.LICENSE.txt",
     "static/media/blog.svg": "/react-github-resume/static/media/blog.449b3f57.svg",
     "static/media/email.svg": "/react-github-resume/static/media/email.e6956db2.svg",
     "static/media/github.svg": "/react-github-resume/static/media/github.1bb02710.svg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e7a13ca1.js",
-    "static/js/2.c0f8a62d.chunk.js",
-    "static/css/main.3c6242d5.chunk.css",
-    "static/js/main.dec3e1ee.chunk.js"
+    "static/js/2.c0efe22b.chunk.js",
+    "static/css/main.edf679b4.chunk.css",
+    "static/js/main.0569afdd.chunk.js"
   ]
 }
