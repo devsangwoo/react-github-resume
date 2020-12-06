@@ -96,6 +96,50 @@
      
     ]
   },
+  "awards": {
+    "description": null,
+    "list": [
+      {
+        "title": "2011.08 전라북도 시청 상근예비역 병역필",
+        "url": null
+      },
+      {
+        "title": "2016.08 전북대학교 상과대학 무역학과 졸업",
+        "url": null
+      },
+      {
+        "title": "2009.02 전주 동암고등학교 졸업",
+        "url": null
+      }
+    
+    ]
+  },
+  "lectures": {
+    "description": null,
+    "list": [
+      {
+        "title": "2017.09 한국농수산식품유통공사로부터 프로젝트 우수상 수상",
+        "url": null
+      },
+      {
+        "title": "2018.03 TOEIC 930점 취득",
+        "url": null
+      },
+      {
+        "title": "2018.09 JLPT N1 취득",
+        "url": null
+      },
+
+      {
+        "title": "2018.12 젠펙트 주식회사 팀 내 우수사원상 수상",
+        "url": null
+      },
+      {
+        "title": "2019.11 정보처리기사 취득",
+        "url": null
+      }
+    ]
+  },
   "skills": {
     "title": "기술",
     "list": [
@@ -218,11 +262,28 @@
         ]
       },
       {
-        "title": "그 외",
+        "title": "Project Management",
         "descriptions": [
           {
-            "title": "Git을 능숙하게 다룰 수 있습니다.",
+            "title": "Git을 통해 능숙하게 버젼관리를 할 수 있습니다.",
             "subTitle": [ "git flow, github flow, gitlab flow를 회사에서 적용해본 경험이 있습니다." ]
+          },
+          {
+            "title": "JIRA와 Confluence를 이용하여 티켓 관리와 기술 도큐먼트 관리를 할 수 있습니다.",
+            "subTitle": [ "실무에서 티켓 기반의 브랜치 관리 및 기술 도큐먼트 작성을해본 경험이 있습니다." ]
+          }
+        ]
+      },
+      {
+        "title": "Language",
+        "descriptions": [
+          {
+            "title": "영어",
+            "subTitle": [ "영문 도큐먼트 독해가 가능하며 영미권 국가에서 리서치 및 영업 경험이 있습니다." ]
+          },
+          {
+            "title": "일본어",
+            "subTitle": [ "일본어로 비즈니스 회화가 가능하며 영미권 클라이언트 상대로 일<->영 통역을 한 경험이 있습니다." ]
           }
         ]
       }

@@ -16,14 +16,15 @@ const Home = () => {
     <div className={styles.container}>
       <Introduce className={styles.item} />
       <Careers className={styles.item} />
+      <Awards className={styles.item} /> 
+      <Lectures className={styles.item} />
       <Skills className={styles.item} />
       <Personals className={styles.item} />
       {/* <Personals className={styles.item} /> */}
       {/* <Hobby className={styles.item} />
-      <Speakers className={styles.item} />
-      <Activities className={styles.item} />
-      <Lectures className={styles.item} />
-      <Awards className={styles.item} /> */}
+
+
+*/}
     </div>
   )
 }

@@ -13,7 +13,7 @@ const Awards = ({ className }) => {
   const { awards } = useDB()
 
   return (
-    <Card title='수상' className={classProps}>
+    <Card title='학력 & 병역' className={classProps}>
       {awards.list.map((award, index) => (
         <span className={styles.award} key={`award-${index}`}>
           {award.title}

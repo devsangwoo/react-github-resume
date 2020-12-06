@@ -12,7 +12,7 @@ const Lectures = ({ className }) => {
   const { lectures } = useDB()
 
   return (
-    <Card title='강연' className={classProps}>
+    <Card title='보유 자격 및 수상 이력' className={classProps}>
       {lectures.list.map((lecture, index) => (
         <span className={styles.lecture} key={`lectures-${index}`}>
           {lecture.title}
