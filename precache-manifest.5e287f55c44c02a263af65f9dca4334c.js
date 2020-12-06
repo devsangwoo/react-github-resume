@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "93087450b04132e04327a943b5c7e9c8",
+    "revision": "74f958e4af8628474da6b82bfbbc8d4a",
     "url": "/react-github-resume/index.html"
   },
   {
-    "revision": "29cd767ef523e6408b5c",
-    "url": "/react-github-resume/static/css/main.edf679b4.chunk.css"
+    "revision": "de08876cdd946dcf2c6b",
+    "url": "/react-github-resume/static/css/main.8d6eb8cb.chunk.css"
   },
   {
-    "revision": "3ae18df9ad9ec64499d0",
-    "url": "/react-github-resume/static/js/2.c0efe22b.chunk.js"
+    "revision": "21934a80b50afdf06de4",
+    "url": "/react-github-resume/static/js/2.f5f9bdcb.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/react-github-resume/static/js/2.c0efe22b.chunk.js.LICENSE.txt"
+    "url": "/react-github-resume/static/js/2.f5f9bdcb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "29cd767ef523e6408b5c",
-    "url": "/react-github-resume/static/js/main.50873b04.chunk.js"
+    "revision": "de08876cdd946dcf2c6b",
+    "url": "/react-github-resume/static/js/main.7937d873.chunk.js"
   },
   {
-    "revision": "ba2f200440bd6504a826",
-    "url": "/react-github-resume/static/js/runtime-main.e7a13ca1.js"
+    "revision": "a8120b09b2ab8ea9a03f",
+    "url": "/react-github-resume/static/js/runtime-main.4f28bcd4.js"
   },
   {
     "revision": "449b3f57a1109923ef2a4c1deb57c04a",
